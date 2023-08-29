@@ -8,3 +8,21 @@ paragraph yellow: #ECB12F
 links blue: #2E71A6
 footer links grey: #454245
 */
+
+body {
+  background-color: #540B51;
+}
+
+.features {
+  background-color: ivory;
+}
+
+#ignored {
+  visibility: hidden;
+  height: 0px;
+}
+
+nav {
+  display: flex;
+}
+
